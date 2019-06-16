@@ -1,0 +1,15 @@
+header {
+	background-color: #ff0000;
+	padding: 40px
+}
+h1 {
+	font-size: 90px
+	color: white;
+}
+header img{
+	border-radius: 150px ;
+}
+/*<header>
+	<title>Mickey Mouse</title>
+	<link rel="stylesheet" type="text/css" href="css/hero.css">
+</header>
